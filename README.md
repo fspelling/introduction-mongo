@@ -3,6 +3,6 @@
 
 # Inicializando tente do banco mongodb
 . Rodar o servico do mongodb na maquina:
-    \n-> mongod --dbpath C:\SEU_PROJETO\data
+    <br/>-> mongod --dbpath C:\SEU_PROJETO\data
 
 # Infraestrutura pronta para executar os comandos do mongodb
