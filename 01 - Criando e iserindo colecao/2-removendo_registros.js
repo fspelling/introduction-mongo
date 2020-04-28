@@ -1,0 +1,1 @@
+db.alunos.remove({ "_id" : ObjectId("5ea64e850f0f8cfbe79f7a40") });
